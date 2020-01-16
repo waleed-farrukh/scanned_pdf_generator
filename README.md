@@ -14,7 +14,7 @@ Original
 
 Mobile-captured variant
 
-<img src="https://drive.google.com/uc?export=view&id=13OHcEYHmS664pXUbUSZHckcMdJEQqCpp" width="200"> 
+<img src="https://drive.google.com/uc?export=view&id=1pbiPP9nb1Me0KfSYY7dRzzyHXI4SrwoZ" width="200"> 
 
 ## Installation
 
