@@ -1,0 +1,93 @@
+{
+    "dpi": 300,
+    "motion_blur": {
+        "apply": true,
+        "dim": [
+            3,
+            5,
+            7
+        ],
+        "angle_start": 90,
+        "angle_end": 150,
+        "angle_step": 5,
+        "linetype": [
+            "full",
+            "left",
+            "right"
+        ]
+    },
+     "focus_blur": {
+        "apply": true,
+        "dim": [
+            3,
+            5,
+            7,
+            9
+        ]
+    },
+    "gaussian_blur": {
+        "apply": true,
+        "kernel_start": 1,
+        "kernel_end": 5,
+        "sigma_x_start": 0,
+        "sigma_x_end": 3,
+        "sigma_y_start": 0,
+        "sigma_y_end": 3
+    },
+    "psf_blur": {
+        "apply": true,
+        "psf_id_start": 1,
+        "psf_id_end": 20,
+        "psf_id_step": 5
+    },
+    "gamma": {
+        "apply": true,
+        "gamma_start": 0.1,
+        "gamma_end": 2.0,
+        "gamma_step": 0.1
+    },
+    "brightness_change": {
+        "apply": true,
+        "brightness_change_start": -50,
+        "brightness_change_end": 30,
+        "brightness_change_step": 5
+    },
+    "gamma_spatial": {
+        "apply": true,
+        "gamma_start": 0.3,
+        "gamma_end": 1.7,
+        "gamma_step": 0.1,
+        "x_start": 0.35,
+        "x_end": 0.7,
+        "x_step": 0.05,
+        "y_start": 0.35,
+        "y_end": 0.7,
+        "y_step": 0.05
+    },
+    "salt_pepper": {
+        "apply": true,
+        "salt_start": 0.0,
+        "salt_end": 0.0001,
+        "salt_step": 5e-06,
+        "pepper_start": 0.0,
+        "pepper_end": 0.0001,
+        "pepper_step": 5e-06
+    },
+    "rotation": {
+        "apply": true,
+        "rotation_angle_start": -3,
+        "rotation_angle_end": 3,
+        "rotation_angle_step": 0.5
+    },
+    "perspective": {
+        "apply": true,
+        "perspective_x_start": -3e-05,
+        "perspective_x_end": 8e-06,
+        "perspective_y_start": -3e-05,
+        "perspective_y_end": 8e-06
+    },
+    "background": {
+        "apply": true,
+        "zoom": 0.01
+    }
+}
