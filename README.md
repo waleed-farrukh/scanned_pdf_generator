@@ -7,6 +7,15 @@ Note: This tool is an existing project developed for internal use in middle of 2
 I decided to make it open source since I found it quite handy.
 This is my first github upload. I will follow up with more internally-developed and new projects soon!
 
+Example:
+Original
+
+<img src="https://github.com/waleedfarrukhgini/scanned_variant_generator/blob/master/variant_generator/resources/Datev.jpg" width="200">
+
+Mobile-captured variant
+
+<img src="https://drive.google.com/uc?export=view&id=13OHcEYHmS664pXUbUSZHckcMdJEQqCpp" width="200"> 
+
 ## Installation
 
 1. Clone the package
