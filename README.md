@@ -1,4 +1,4 @@
-# Scanned Variant Generator
+# Scanned PDF Generator
 
 
 This tool converts a PDF or an image of a document into a scanned or mobile-caputured variant.
@@ -12,7 +12,7 @@ Original
 
 <img src="https://github.com/waleedfarrukhgini/scanned_variant_generator/blob/master/variant_generator/resources/Datev.jpg" width="200">
 
-Mobile-captured variant
+Generated mobile-captured variant
 
 <img src="https://github.com/waleedfarrukhgini/scanned_variant_generator/blob/master/sample_variant_output.jpg" width="200"> 
 
@@ -20,8 +20,8 @@ Mobile-captured variant
 
 1. Clone the package
 ```
-    git clone git@git.i.gini.net:vision/scanned_variant_generator.git
-    cd scanned_variant_generator
+    git clone git@git.i.gini.net:vision/scanned_pdf_generator.git
+    cd scanned_pdf_generator
 ```
 2. create a virtual environment(optional)
 ```
